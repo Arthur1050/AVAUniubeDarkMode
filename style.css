@@ -1,0 +1,211 @@
+.login-page div.form {
+    background-color: #23272A !important; 
+}
+
+.loginButton {
+    background: #7289DA !important;
+}
+
+.form span, 
+#myTab span {
+    color: #fff !important;
+}
+
+#navbar.navbarAva{
+    background-color: #2C2F33 !important;
+}
+
+#dropdownMenuPerfil, div#divNavbar div {
+    background-color: #2C2F33 !important;
+    border-color: #23272A !important;
+}
+
+#dropdownMenuPerfil.d-flex {
+    color: #fff !important;
+    border-color: #23272A !important;
+}
+
+div#divAcessibilidadeMobile {
+    background-color: #2C2F33 !important;
+}
+
+div#divAcessibilidadeWeb {
+    color: #fff !important;
+}
+
+.border-end.h-100.d-flex.align-items-center.ps-2.pe-2, .fa-accessible-icon {
+    color: #fff !important;
+    background-color: #2C2F33 !important;
+}
+
+div#divAvaConteudoGeral {
+    background-color: #23272A !important;
+}
+
+nav#sidenav,
+.barraSuperiorCategoria a {
+    background-color: #282c3b;
+}
+
+li.card-ava.card-ava-alt {
+    background-color: #282c3b !important;
+}
+
+li.card-ava {
+    background-color: #2C2F33 !important;
+    color: #fff !important;
+}
+
+h1.tituloGeral,
+#menuOpc #nav-tab a,
+#atendimentos .atendimento {
+    color: #fff;
+}
+
+i.fas, .fa-clock, 
+.fa-whatsapp,
+#atendimentos .atendimento button {
+    color: #7289DA !important;
+}
+
+.subTitulo span,
+div#divQuando2 h4,
+h2.subTitulo,
+#cabDescrCurso,
+.barraSuperiorCategoria #btnFiltrarAtendimentos,
+#menuOpc span {
+    color: #7289DA !important;
+}
+
+div.gridContainer.boxContainer {
+    background-color: #23272A !important;
+}
+
+div.gridContainer.boxContainer .card {
+    background-color: #2C2F33 !important;
+}
+
+h4.tituloCurso, .card h5.tituloSubmenu {
+    color: #fff !important;
+}
+
+span.badge {
+    background-color: #23272A !important;
+    border-color: #7289DA !important;
+    color: #fff !important;
+}
+
+.card-body .buttonMain {
+    background-color: #282c3b !important;
+    color: #fff !important;
+}
+
+.status-curso input[type="radio"]:checked + label{
+    background-color: #2C2F33 !important;
+    color: #7289DA !important;
+    border-color: #7289DA !important;
+}
+
+tbody tr {
+    color: #fff !important;
+    border-color: #7289DA !important;
+}
+
+#divFiltroTipoPessoa li {
+    border-color: #7289DA !important;
+}
+
+div.col-lg-2 {
+    border-color: #7289DA !important;
+}
+
+tbody input[type="checkBox"] {
+    background-color: #959ca0 !important;
+}
+
+.comunicacaoSidenav a:not(.sel){
+    color: #959ca0 !important;
+}
+
+.comunicacaoSidenav .sel {
+    background-color: #282c3b !important;
+    color: #7289DA !important;
+    border: 1px solid #7289DA !important;
+}
+
+button.btn.buttonMain {
+    background-color: #282c3b !important;
+}
+
+img#userPicture {
+    border: 2px solid #7289DA !important;
+}
+
+div#divQuando2 {
+    color: #fff !important;
+}
+
+div#divQuando2 button {
+    background-color: #282c3b !important;
+}
+
+a.cardSubmenu {
+    box-shadow: 0px 1px 0.375rem 0px rgba(0, 0, 0, 0.288) !important;
+}
+
+.main-body .card{
+    background-color: #2C2F33 !important;
+}
+
+.main-body .card h4, .main-body .card div .row {
+    color: #fff !important;
+}
+
+.main-body .card div label.subTituloCor, .main-body .card span.mb-1 {
+    color: #7289DA !important;
+}
+
+div .card-body img[title="Clique para trocar a foto do seu perfil"] {
+    border: 3px solid #7289DA !important;
+}
+
+div[data-bs-target="#menuSala"] .card {
+    background-color: #2C2F33 !important;
+    box-shadow: 0px 1px 0.375rem 0px rgba(0, 0, 0, 0.288) !important;
+}
+
+div[data-bs-target="#menuSala"] .card h3 {
+    color: #7289DA !important;
+}
+
+nav.navbar {
+    background-color: #282c3b !important;
+}
+
+div#NavegacaoEstagio {
+    color: #fff !important;
+}
+
+div#NavegacaoEstagio .divArqEstagDescr {
+    background-color: #282c3b !important;
+}
+
+div#divAvaListagemCampanhasCriadas {
+    color: #fff !important;
+}
+
+div#divAvaListagemCampanhasCriadas .cor-fundo-principal {
+    background-color: #282c3b !important;
+}
+
+#divAvaAvisosGerais,
+#divAvaAvisosGerais blockquote {
+    color: #fff !important;
+}
+
+#divAvaAvisosGerais .fa-file-pdf,
+#divAvaAvisosGerais strong,
+#divAvaAvisosGerais .fa-television,
+#divAvaAvisosGerais .fa-link {
+    color: #7289DA !important;
+}

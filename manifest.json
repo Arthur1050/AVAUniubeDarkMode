@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.3",
+    "name": "UniubeAVA Darkmode",
+    "description": "Deixe o portal do AVA da universidade de Uberaba com tonalidades escuras.",
+    "author": "Arthur Tosta",
+    "icons" : {
+        "16": "lib/pics/whiteLogo_16.png",
+        "32": "lib/pics/whiteLogo_32.png",
+        "48": "lib/pics/whiteLogo_48.png",
+        "128": "lib/pics/whiteLogo_128.png"
+    },
+    "action": {
+        "default_icon": "lib/whiteLogo_16.png",
+        "default_popup": "index.html"
+    },
+    "web_accessible_resources": [
+        {
+          "resources": [ "style.css" ],
+          "matches": [ "https://ava3.uniube.br/*" ]
+        }],
+    "permissions": ["tabs", "storage", "scripting", "activeTab"],
+    "host_permissions": ["<all_urls>"]
+    
+}
